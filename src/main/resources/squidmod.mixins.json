@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "squidmod.refmap.json",
   "mixins": [
+    "SquidMixin"
   ],
   "client": [
   ],
